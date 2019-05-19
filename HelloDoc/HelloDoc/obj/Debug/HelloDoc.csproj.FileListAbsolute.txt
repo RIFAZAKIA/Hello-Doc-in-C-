@@ -1,0 +1,40 @@
+C:\Users\rifaz\Desktop\Hello Doc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.exe.config
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.exe.config
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.delete.resources
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Form1.resources
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Home.resources
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.NewDoctor.resources
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.NewPatient.resources
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.PatientBill.resources
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Properties.Resources.resources
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.csproj.GenerateResource.Cache
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.exe
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.pdb
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.exe
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.pdb
+E:\Programing\C#\AspDotNet\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.csprojResolveAssemblyReference.cache
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.exe.config
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.exe
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.pdb
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.exe
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.pdb
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Home.resources
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.NewDoctor.resources
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.NewPatient.resources
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Properties.Resources.resources
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.csproj.GenerateResource.Cache
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Login.resources
+C:\Users\rifaz\Desktop\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.DeleteRecord.resources
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.exe.config
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.exe
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.pdb
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.exe
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\bin\Debug\HelloDoc.pdb
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.csprojResolveAssemblyReference.cache
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.DeleteRecord.resources
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Login.resources
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Home.resources
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.NewDoctor.resources
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.NewPatient.resources
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.Properties.Resources.resources
+D:\info project\final hello doc\HelloDoc\HelloDoc\HelloDoc\obj\Debug\HelloDoc.csproj.GenerateResource.Cache
